@@ -1,7 +1,7 @@
 {
   "name": "drogen",
   "version": "0.1.0",
-  "description": "Use pulsating dots to call attention to specific elements",
+  "description": "Use pulsating markers to call attention to specific page elements",
   "main": "lib/drogen.js",
   "repository": "https://github.com/Lytol/drogen",
   "author": "Brian Smith <brian.e.smith@gmail.com>",
