@@ -7,7 +7,7 @@ A Drogen is a pulsating marker used for drawing attention to specific page eleme
 Usage
 -----
 
-    <Drogen size=32 color=#cc3333 top=50% left=0>
+    <Drogen size="32px" color="#03c" top="50%" left={0}>
       <h1>My Header</h1>
     </Drogen>
 
@@ -16,5 +16,14 @@ Usage
 
 - `size`: The size of the Drogen  (default: `32px`)
 - `color`: The color of the Drogen (default: `#39c`)
-- `top`, `right`, `bottom`, `left`: The position of the Drogen relative the children (default top: 50%, left: 0)
-- `onClick`: The action to perform if the Drogen is clicked
+- `top` / `left`: The position of the Drogen relative the children (default `top: 50%`, `left: 0`)
+
+
+TODO
+----
+
+* Better positioning than top and left (duh)
+* OnClick handling for custom functionality
+* Optional title text on hover
+* Eslint for style consistency
+* Tests!
