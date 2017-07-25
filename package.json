@@ -17,9 +17,5 @@
     "css-loader": "^0.28.4",
     "style-loader": "^0.18.2",
     "webpack": "^3.3.0"
-  },
-  "dependencies": {
-    "prop-types": "^15.5.10",
-    "react": "^15.6.1"
   }
 }
